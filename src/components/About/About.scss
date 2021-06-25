@@ -1,0 +1,72 @@
+$test-color: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+
+p {
+    font-size: 1.165rem;
+}
+
+.about-section {
+    width: 99vw;
+    padding: 0 3rem;
+    margin: 0 2rem 4rem;
+}
+
+.about-first {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about-second {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5rem;
+    padding: 0 8rem;
+}
+
+.about-name {
+    padding: 2rem;
+    text-align: left;
+    width: 49vw
+}
+
+.about-intro-statement {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    width: 49vw;
+    // justify-content: center;
+}
+
+.profile-pic {
+    width: 25%;
+    border-radius: 50%;
+}
+
+.social-icons {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.github-icon {
+    color: black;
+}
+.github-icon:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.instagram-icon {
+    color: rgb(199, 61, 157);
+}
+.instagram-icon:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.linkedin-icon {
+    color: #0e76a8;
+}
+.linkedin-icon:hover {
+    color: grey;
+    transition: 0.6s;
+}

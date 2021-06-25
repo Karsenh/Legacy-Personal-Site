@@ -1,0 +1,46 @@
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    letter-spacing: 2px;
+    font-size: 48px;
+}
+
+.header-content {
+    margin: 14rem auto auto;
+    width: 100%;
+}
+
+.custom-name {
+    font-family: 'Great Vibes';
+    font-size: 2rem;
+    margin-left: 0.65rem;
+    color: rgb(16, 70, 102);
+}
+
+.landing-header {
+    font-size: 62px;
+    width: 100%;
+}
+
+.custom-btn {
+    color: white !important;
+    border-color: rgba(255, 255, 255, 0.521) !important;
+    background-color: rgba(16, 70, 102, 0.301) !important;
+    margin-top: 4rem !important;
+    padding: 0.6rem 1rem !important;
+}
+
+.custom-btn:hover {
+    background-color: rgba(4, 238, 218, 0.65) !important;
+    color: rgba(16, 70, 102, 0.60) !important;
+    border-color: rgba(16, 70, 102, 0.603) !important;
+    font-weight: 600;
+}
+
+
+.header {
+    height: 60vh;
+    text-align: center;
+    background: linear-gradient(35deg, rgb(0, 80, 126) 0%, rgb(4, 238, 218) 100%);
+    color: white;
+}
