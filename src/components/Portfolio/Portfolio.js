@@ -13,6 +13,7 @@ const Portfolio = () => {
             <CustomCard
               key={index}
               title={project.title}
+              platform={project.platform}
               description={project.description}
               link={project.link}
             />
