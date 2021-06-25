@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/karsenh.github.io/static/css/main.736323c4.chunk.css",
+    "main.js": "/karsenh.github.io/static/js/main.8fb2c7c7.chunk.js",
+    "main.js.map": "/karsenh.github.io/static/js/main.8fb2c7c7.chunk.js.map",
+    "runtime-main.js": "/karsenh.github.io/static/js/runtime-main.0e90140a.js",
+    "runtime-main.js.map": "/karsenh.github.io/static/js/runtime-main.0e90140a.js.map",
+    "static/js/2.c289379f.chunk.js": "/karsenh.github.io/static/js/2.c289379f.chunk.js",
+    "static/js/2.c289379f.chunk.js.map": "/karsenh.github.io/static/js/2.c289379f.chunk.js.map",
+    "index.html": "/karsenh.github.io/index.html",
+    "static/css/main.736323c4.chunk.css.map": "/karsenh.github.io/static/css/main.736323c4.chunk.css.map",
+    "static/js/2.c289379f.chunk.js.LICENSE.txt": "/karsenh.github.io/static/js/2.c289379f.chunk.js.LICENSE.txt",
+    "static/media/myResume.624b3696.pdf": "/karsenh.github.io/static/media/myResume.624b3696.pdf",
+    "static/media/profilePic.32b8a543.jpg": "/karsenh.github.io/static/media/profilePic.32b8a543.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e90140a.js",
+    "static/js/2.c289379f.chunk.js",
+    "static/css/main.736323c4.chunk.css",
+    "static/js/main.8fb2c7c7.chunk.js"
+  ]
+}
