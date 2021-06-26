@@ -10,7 +10,7 @@ const Card = ({ title, description, link, platform }) => {
       <hr style={{ width: '5rem', margin: '1rem auto' }} />
       <p>{description}</p>
       <a href={link}>
-        <Button variant='outlined'>
+        <Button variant='outlined' style={{ padding: '0 2rem' }}>
           <GoLogoGithub size={40} />
         </Button>
       </a>
