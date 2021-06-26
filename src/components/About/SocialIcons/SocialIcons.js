@@ -4,7 +4,7 @@ import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 const SocialIcons = () => {
   return (
     <div className='social-icons'>
-      <a className='github-icon' href='https://www.google.com'>
+      <a className='github-icon' href='https://github.com/Karsenh'>
         <FaGithub size={40} />
       </a>
       <a className='instagram-icon' href='https://www.google.com'>
