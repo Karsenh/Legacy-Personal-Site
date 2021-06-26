@@ -49,10 +49,10 @@ const FirstRow = () => {
               opacity: '15%',
             }}
           >
-            <FaJs size={20} />
-            <FaJava size={20} />
-            <FaPython size={20} />
-            <FaHtml5 size={20} />
+            <FaJs size={25} />
+            <FaJava size={25} />
+            <FaPython size={25} />
+            <FaHtml5 size={25} />
           </div>
         </div>
       </div>
