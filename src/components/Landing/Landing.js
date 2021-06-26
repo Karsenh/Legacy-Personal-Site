@@ -16,7 +16,7 @@ const Landing = ({ children }) => {
           <NavButtons />
         </div>
 
-        <Particles style={{ opacity: '40%' }} />
+        <Particles style={{ opacity: '50%' }} />
       </div>
       <AnimatedWaves />
       <div className='content flex'>
