@@ -6,8 +6,10 @@ h1 {
 }
 
 .header-content {
+    position: absolute;
     margin: 14rem auto auto;
     width: 100%;
+    z-index: 100;
 }
 
 .custom-name {

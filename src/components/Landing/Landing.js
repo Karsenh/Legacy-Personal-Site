@@ -18,9 +18,7 @@ const Landing = ({ children }) => {
 
         <Particles style={{ opacity: '40%' }} />
       </div>
-
       <AnimatedWaves />
-
       <div className='content flex'>
         {children}
         <Footer />
