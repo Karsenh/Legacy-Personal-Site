@@ -7,10 +7,13 @@ const SocialIcons = () => {
       <a className='github-icon' href='https://github.com/Karsenh'>
         <FaGithub size={40} />
       </a>
-      <a className='instagram-icon' href='https://www.google.com'>
+      <a
+        className='instagram-icon'
+        href='https://www.instagram.com/realkarsen/'
+      >
         <FaInstagram size={40} />
       </a>
-      <a className='linkedin-icon' href='https://www.google.com'>
+      <a className='linkedin-icon' href='https://www.linkedin.com/in/karsenh/'>
         <FaLinkedin size={40} />
       </a>
     </div>
